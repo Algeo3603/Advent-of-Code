@@ -11,6 +11,3 @@ while True:
         print(answer)
         break
     answer += 1
-
-# result = hashlib.md5(secretKey.encode())
-# print(result.hexdigest())
